@@ -2,6 +2,8 @@
 
 This project implements a high-volume, real-time content popularity tracking system for Hotstar Disney, using Apache Kafka for event streaming and Apache Flink for stream processing. It processes billions of watch events to determine content popularity across various shows, movies, and live events on the Hotstar Disney platform.
 
+## Inspired by :https://blog.hotstar.com/building-a-popularity-pipeline-using-flink-e66d50fcfb33
+
 ## Overview
 
 In the fast-paced world of streaming entertainment, understanding what content is trending in real-time is crucial. This pipeline allows Hotstar Disney to:
