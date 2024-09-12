@@ -99,10 +99,6 @@ hotstar-disney-realtime-popularity-pipeline/
 - Implement more robust error handling and logging for production use.
 - Scale the system to handle even higher volumes of streaming data.
 
-## Contributing
-
-Contributions from the Hotstar Disney team are welcome! Please feel free to submit a Pull Request or open an Issue for discussion.
-
 ## License
 
-This project is proprietary and confidential to Hotstar Disney. Unauthorized copying, distribution, or use is strictly prohibited.
+This project is open source and I have just replicated the system based on blog.
